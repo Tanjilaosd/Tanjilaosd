@@ -141,3 +141,10 @@ A curious <font color="#374151"><b>Web Developer</b></font> who loves turning id
 <div align="center">
   <sub>🌸 Crafted with care by <font color="#1F2937"><b>Tanjila Akter</b></font></sub>
 </div>
+
+### 🚀 Featured Projects
+- [FullStack E-Commerce](https://github.com/Tanjilaosd/FullStack_ecommerce) — MERN stack e-commerce web application
+- [Todo Project](https://github.com/Tanjilaosd/todoProject) — Todo and task management app built with React
+- [Task Manager](https://github.com/Tanjilaosd/Task_manager) — Task manager app
+- [Portfolio](https://github.com/Tanjilaosd/MY_PORTFOLIO) — My personal portfolio website
+- [MERN CRUD](https://github.com/Tanjilaosd/mernStack-Crud-project) — MERN stack CRUD application with MongoDB
